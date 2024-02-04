@@ -12,7 +12,7 @@ Other ways: Help Screen in Bank ATMs to ask for urgent help (FingerPrint/Aadhaar
 HelloWorld is a NGO or Private Company registered to help people who need help at some part of their life. 
 
 
-Android App will allow user to create a unique user id resembling (sathish@helloworld).
+Web App or Mobile App will allow user to create a unique user id resembling (sathish@helloworld).
 
 
 Every user will be allotted NGO Identification number comprising of 20 numbers. Virtual Payment card will be given for every user.
